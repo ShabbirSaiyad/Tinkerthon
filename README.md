@@ -1,10 +1,10 @@
 ⭐⭐ Bridge Gap - A Digital Translator ⭐⭐
 
-🚀 Problem Statement 🚀
+🚀 Problem Statement 🚀:
 To Create a digital translator for Indian voices, transforming spoken Hindi, Indian English, Urdu, Bengali, and Punjabi into text using 
 native scripts, then rendering them into multiple languages.
 
-🚀 Solution 🚀
+🚀 Solution 🚀:
 Our Solution "Bridge Gap" seeks to reduce the linguistic barrier. We developed the Bridge-Gap website in response to urgent problems that many people
 , including tourists, rural dwellers, and students, were facing.
 
@@ -16,7 +16,7 @@ the translated  text.
 
 👉 To reduce this potential gap, a text-to-speech synthesis tool was part of our approach. This allows users to hear the text that has been extracted in any language. Users can ensure a more accurate translation experience by actively listening to identify and fix any errors that may have occurred during the text extraction process from photos.
 
-🚀 Technology Used 🚀
+🚀 Technology Used 🚀:
 HTML, CSS, and Javascript
 
 
